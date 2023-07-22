@@ -1,0 +1,3 @@
+const endpoint = "https://mydomain/rest/v1/image-import";
+const username = "foobar";
+const password = "baz";
